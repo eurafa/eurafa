@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30"/> Hey! Nice to see you</h1>
 
 **I'm Rafael, from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> Brazil, a Senior Software Engineer** with **20+ years** of experience designing resilient, event-driven systems for finance and gaming.  
 I bridge the gap between **enterprise architecture** and **modern AI tooling** — accelerating delivery without sacrificing quality.
