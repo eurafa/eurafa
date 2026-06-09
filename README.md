@@ -1,12 +1,25 @@
-## Rafael Andrade de Oliveira
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you</h1>
 
-**Senior Software Engineer** with **20+ years** of experience designing resilient, event-driven systems for finance and gaming.  
+**I'm Rafael, from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> Brazil, a Senior Software Engineer** with **20+ years** of experience designing resilient, event-driven systems for finance and gaming.  
 I bridge the gap between **enterprise architecture** and **modern AI tooling** — accelerating delivery without sacrificing quality.
 
 > *"Building scalable systems is an exercise in trade-offs. AI is just another leverage point."*
 
 ## 
 
+
+<details>
+  <summary><b>Where to find me</b></summary>
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eurafa@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/eurafa)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/eurafa/)
+
+</details>
+
+<details>
+<summary><b>Skills</b></summary>
+  
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -38,7 +51,8 @@ I bridge the gap between **enterprise architecture** and **modern AI tooling** �
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+</details>
 
 ## 
 
-*"Experience is what you get when you don't get what you want — but good architecture is what you build when you learn from it."*
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/eurafa)
