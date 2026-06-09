@@ -55,4 +55,8 @@ I bridge the gap between **enterprise architecture** and **modern AI tooling** â
 
 ## 
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/eurafa)
+<a href="https://www.buymeacoffee.com/eurafa" alt="Buy Me A Coffee">
+  <img src="https://github.com/eurafa/eurafa/blob/main/buy-me-a-coffee-qr-code.png?raw=true" width="100" align="right"/>
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" align="right"/>
+</a>
+
