@@ -1,5 +1,3 @@
-<img width="100%" src="https://github.com/eurafa/eurafa/blob/main/divider.jpeg?raw=true" />
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30"/> Hey! Nice to see you</h1>
 
 **I'm Rafael, from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> Brazil, a Senior Software Engineer** with **20+ years** of experience designing resilient, event-driven systems for finance and gaming insdustries.  
