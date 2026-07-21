@@ -1,6 +1,9 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30"/> Hey! Nice to see you</h1>
+<h1>
+  <img height="32" align="right" src="https://github.com/user-attachments/assets/5003ca03-05b6-43ff-a4db-02cd9ea1a1b9" />
+  Hey! Nice to see you!
+</h1>
 
-**I'm Rafael, from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> Brazil, a Senior Software Engineer** with **20+ years** of experience designing resilient, event-driven systems for financial and gaming industries.  
+**I'm Rafael, from Brazil, a Senior Software Engineer** with **20+ years** of experience designing resilient, event-driven systems for financial and gaming industries.  
 I bridge the gap between **enterprise architecture** and **modern AI tooling** — accelerating delivery without sacrificing quality.
 
 > *"Building scalable systems is an exercise in trade-offs. AI is just another leverage point."*
