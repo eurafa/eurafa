@@ -5,20 +5,12 @@ I bridge the gap between **enterprise architecture** and **modern AI tooling** â
 
 > *"Building scalable systems is an exercise in trade-offs. AI is just another leverage point."*
 
-## 
+## Contact
 
-
-<details>
-  <summary><b>Where to find me</b></summary>
-  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eurafa@gmail.com)
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/eurafa)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/eurafa/)
 
-</details>
-
-<details>
-<summary><b>Skills</b></summary>
+## Skills
   
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
