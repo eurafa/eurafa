@@ -1,9 +1,10 @@
-<h1>
-  <img height="32" align="right" src="https://github.com/user-attachments/assets/5003ca03-05b6-43ff-a4db-02cd9ea1a1b9" />
-  Hey! Nice to see you!
-</h1>
+<img height="32" align="right" src="https://github.com/user-attachments/assets/5003ca03-05b6-43ff-a4db-02cd9ea1a1b9" />
 
-**I'm Rafael, from Brazil, a Senior Software Engineer** with **20+ years** of experience designing resilient, event-driven systems for financial and gaming industries.  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Michroma&size=28&duration=500&pause=60000&color=181818&repeat=false&width=500&lines=I'm+Rafael!+Nice+to+meet+you!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Software+Architect;Software+Engineer;Tech+Lead)](https://git.io/typing-svg)
+
+A professional with **20+ years** of experience designing resilient, scalable, event-driven systems from financial to gaming industries.  
 I bridge the gap between **enterprise architecture** and **modern AI tooling** — accelerating delivery without sacrificing quality.
 
 > *"Building scalable systems is an exercise in trade-offs. AI is just another leverage point."*
