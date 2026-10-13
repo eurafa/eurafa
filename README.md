@@ -29,7 +29,13 @@ I bridge the gap between **enterprise architecture** and **modern AI tooling** â
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Event-driven
+
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache_Flink-AE6AB9?style=for-the-badge&logo=apache-flink&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-orange?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/Amazon%20SQS-161d26?style=for-the-badge&logo=amazonaws-sqs&logoColor=white)
 
 ### AI Tools
 ![Claude](https://img.shields.io/badge/Claude-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
